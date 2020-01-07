@@ -3,6 +3,6 @@
 
 ### Team Members
  - 고주형 <dury.ko@gmail.com>
- - 박소현
+ - 박소현 <unodostre@naver.com>
  - 이혜지
  - 권예진
