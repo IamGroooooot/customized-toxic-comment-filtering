@@ -1,5 +1,5 @@
-## Genres Classification By Lyrics
-  노래 가사로 장르를 예측합니다.
+## Toxic Comment Analysis with user's setting 
+  댓글을 분석하여 악성 댓글인지 판별해줍니다
 
 ### Team Members
  - 고주형 <dury.ko@gmail.com>
