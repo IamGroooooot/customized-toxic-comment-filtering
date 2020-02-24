@@ -3,6 +3,6 @@
 
 ### Team Members
  - 고주형 <dury.ko@gmail.com>
- - 박소현 <unodostre@naver.com>
+ - 박소현 <coodingpenguin@gmail.com>
  - 이혜지 <ji5623ku2@naver.com>
  - 권예진
